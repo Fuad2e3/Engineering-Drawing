@@ -68,6 +68,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <div align="center">
 
 **Developed with ❤️ by Fuad**  
+*Developed by Softece*  
 *Engineering Drawing | Green University of Bangladesh*
 
 </div>
